@@ -26,7 +26,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ### Here are the data for the project: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The script "run_analysis.R" performs the following:
+### The script "run_analysis.R" performs the following:
 
 * Merges the training and the test sets to create one data set. 
 	- Reads data from "w3data/train/X_train.txt" and "./w3data/train/X_train.txt" files and then joins them into the "merged_set" data frame.
